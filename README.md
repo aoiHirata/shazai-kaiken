@@ -30,6 +30,8 @@
 
 謝罪会見
 
+▶ **今すぐ遊ぶ：https://aoihirata.github.io/shazai-kaiken/**
+
 <!-- プロジェクトについて -->
 
 ## プロジェクトについて
@@ -191,7 +193,7 @@ start index.html
 
 ### GitHub Pages の URL が 404 になる
 
-Pages の設定直後は反映に数分かかる。また、プライベートリポジトリで GitHub Pages を使うには有料プラン（GitHub Pro など）が必要である。
+Pages の設定直後や更新直後は、反映に数分かかる。少し待ってから再読み込みすること。
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
